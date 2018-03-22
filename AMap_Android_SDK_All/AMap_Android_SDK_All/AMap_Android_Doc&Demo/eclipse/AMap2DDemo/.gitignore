@@ -1,0 +1,9 @@
+gen
+
+bin
+
+.gradle
+
+.idea
+*.iml
+build

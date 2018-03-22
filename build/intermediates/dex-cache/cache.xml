@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\learning\shiyanshi\mMapTest\app\libs\AMap_Search_V3.6.0_20161111.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5b8b9268160639762bb1f6f4eceea1c5122dc770">
+        <dex dex="E:\learning\shiyanshi\mMapTest\app\build\intermediates\pre-dexed\debug\AMap_Search_V3.6.0_20161111_4bb8715eb4341464668e19f8b1db4982722e166e.jar" />
+    </item>
+    <item
+        jar="E:\learning\shiyanshi\mMapTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="E:\learning\shiyanshi\mMapTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_f325cdd7fc124d2c7535f48601254d613ea30cb8.jar" />
+    </item>
+    <item
+        jar="E:\learning\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="E:\learning\shiyanshi\mMapTest\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_83dd6ab3d9fa430b6394356a06f2b994888c775f.jar" />
+    </item>
+    <item
+        jar="E:\learning\shiyanshi\mMapTest\app\libs\Android_Map3D_SDK_V4.1.2_20161104.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="02f1fa1d79c716b42336b4874e024c075a4930d0">
+        <dex dex="E:\learning\shiyanshi\mMapTest\app\build\intermediates\pre-dexed\debug\Android_Map3D_SDK_V4.1.2_20161104_086a2dacc82dfa96d124356064e6b888a1e58120.jar" />
+    </item>
+    <item
+        jar="E:\learning\shiyanshi\mMapTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\learning\shiyanshi\mMapTest\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_832d7e28c2581e58daccb1b76734b64b42167560.jar" />
+    </item>
+    <item
+        jar="E:\learning\shiyanshi\mMapTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\learning\shiyanshi\mMapTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_5fb8be861977339b58c274ea8e75fa8f052437c0.jar" />
+    </item>
+
+</items>
